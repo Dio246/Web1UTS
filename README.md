@@ -84,8 +84,7 @@ Halaman simulasi pelacakan resi. Dengan memasukkan nomor Delivery Order (misal: 
 ### 5. Halaman Pemesanan (`checkout.html`)
 Form pemesanan yang berisi data pelanggan dan *select box* pilihan buku yang juga dirender dari data katalog. Saat disubmit, akan muncul alert konfirmasi bahwa pesanan diproses.
 
-![Halaman Pemesanan](<img width="1366" height="768" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/639f8327-0666-449e-b949-dc576a9561ca" />
-)
+![Halaman Pemesanan](https://private-user-images.githubusercontent.com/73042916/698667457-7aa3ab4c-02f8-4a36-a8b3-4e94043b52ea.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQwODU5MjcsIm5iZiI6MTc5NDA4NTYyNywicGF0aCI6Ii83MzA0MjkxNi82OTg2Njc0NTctN2FhM2FiNGMtMDJmOC00YTM2LWE4YjMtNGU5NDA0M2I1MmVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTA3VDIxMDcwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlYzMzMTFiNmJkODg1YWIzODRlOTI0ZTA4MTk4NTRmNzRiYWNhODUwMTA0MDgxMzdjNGE0OTgyM2IyMDhlMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.0jjey7hVyckThWUtT3o5UC0WEz-KDHOS4OTgDk44aJU)
 ![Pemesanan Berhasil](<img width="1366" height="768" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/e9a05257-e6b7-4132-9af1-c8ea46f9d44d" />
 )
 
