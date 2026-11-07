@@ -69,8 +69,7 @@ Halaman awal untuk mengakses sistem. Dilengkapi dengan validasi form berbasis JS
 ### 2. Dashboard Menu (`dashboard.html`)
 Halaman utama setelah login berhasil. Terdapat fitur "greeting" sapaan waktu lokal (contoh: "Selamat Pagi, Admin!"). Navbar sudah dilengkapi dengan logo universitas.
 
-![Dashboard](<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/0619fe19-5ace-4934-84a0-091409768482" />
-)
+![Dashboard](https://private-user-images.githubusercontent.com/73042916/698667407-803b9f6d-2bd7-47f0-9cf6-8e5ae7d5e0ad.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQwODU3NzMsIm5iZiI6MTc5NDA4NTQ3MywicGF0aCI6Ii83MzA0MjkxNi82OTg2Njc0MDctODAzYjlmNmQtMmJkNy00N2YwLTljZjYtOGU1YWU3ZDVlMGFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTA3VDIxMDQzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4MTI5MmE4YjA1MzllYTljM2NmZmE2ZDU2MDY4MmE0YzhkOWM2OTUzMGU3Yzk5ZDljOGQ3ZDBlODczM2I5ZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.-VFfWS0080qJguuM2S9WIAlQS1Pug8zn9Qerp3ukjIQ)
 
 ### 3. Informasi Stok / Katalog (`stok.html`)
 Menampilkan tabel katalog buku yang datanya ditarik langsung dari `data.js`. Di bagian bawah terdapat form untuk menambahkan stok buku baru secara dinamis menggunakan manipulasi DOM.
