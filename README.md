@@ -74,8 +74,7 @@ Halaman utama setelah login berhasil. Terdapat fitur "greeting" sapaan waktu lok
 ### 3. Informasi Stok / Katalog (`stok.html`)
 Menampilkan tabel katalog buku yang datanya ditarik langsung dari `data.js`. Di bagian bawah terdapat form untuk menambahkan stok buku baru secara dinamis menggunakan manipulasi DOM.
 
-![Informasi Stok](<img width="1366" height="768" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/e2ed38a9-1d0c-45cc-b509-35c2c00b39cd" />
-)
+![Informasi Stok](https://private-user-images.githubusercontent.com/73042916/698667425-9394f45c-1049-400d-b257-1909f9b1b824.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQwODU4MzksIm5iZiI6MTc5NDA4NTUzOSwicGF0aCI6Ii83MzA0MjkxNi82OTg2Njc0MjUtOTM5NGY0NWMtMTA0OS00MDBkLWIyNTctMTkwOWY5YjFiODI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTA3VDIxMDUzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlZDY2YWZmZWRlOGIwNzljZTgzMDdmY2FiYTUyODZiNDE3NTAzNWI4OTZlMWIyMzhmNWIxN2VmZjFlZjg3NjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.r3IgipGGxwmBFH0Ih-Mq41_xA_KYFij_ZmjZ7PVv8EQ)
 
 ### 4. Tracking Pengiriman (`tracking.html`)
 Halaman simulasi pelacakan resi. Dengan memasukkan nomor Delivery Order (misal: `20230013`), sistem akan merender informasi penerima, bar status pengiriman, dan histori perjalanan.
