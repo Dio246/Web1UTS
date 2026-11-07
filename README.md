@@ -79,8 +79,7 @@ Menampilkan tabel katalog buku yang datanya ditarik langsung dari `data.js`. Di 
 ### 4. Tracking Pengiriman (`tracking.html`)
 Halaman simulasi pelacakan resi. Dengan memasukkan nomor Delivery Order (misal: `20230013`), sistem akan merender informasi penerima, bar status pengiriman, dan histori perjalanan.
 
-![Tracking Pengiriman](<img width="1366" height="768" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/1d0fd1d7-e8e8-456a-84a2-869526c68068" />
-)
+![Tracking Pengiriman](https://private-user-images.githubusercontent.com/73042916/698667441-482a6b4b-af62-4518-bb98-88f8aeaf8bb3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQwODU4ODUsIm5iZiI6MTc5NDA4NTU4NSwicGF0aCI6Ii83MzA0MjkxNi82OTg2Njc0NDEtNDgyYTZiNGItYWY2Mi00NTE4LWJiOTgtODhmOGFlYWY4YmIzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTA3VDIxMDYyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk0MDFjNGQ4YmQ1MmM1Nzc3ZGYwYjQ0ZTQ1NjVhNDM3MWYxMTE2YjQyNzAwOTQzZjM2NDY3MDgxYzY0YmU5NjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.pTZqCo48JheBKIoYMddxg8rAAXSZQrATEhznNXu-Hv0)
 
 ### 5. Halaman Pemesanan (`checkout.html`)
 Form pemesanan yang berisi data pelanggan dan *select box* pilihan buku yang juga dirender dari data katalog. Saat disubmit, akan muncul alert konfirmasi bahwa pesanan diproses.
