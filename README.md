@@ -63,34 +63,34 @@ Web1UTS/
 ### 1. Halaman Login (`index.html`)
 Halaman awal untuk mengakses sistem. Dilengkapi dengan validasi form berbasis JS. Jika email atau password salah, akan muncul alert peringatan. Tersedia juga tombol Lupa Password dan Daftar.
 
-![Login Screen](Screenshot%20(117).jpg)
-![Login Screen Filled](Screenshot%20(116).jpg)
+![Login Screen](<img width="1366" height="768" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/4efe5831-0ac2-41a4-a147-9d1521f60707" />
+)
+![Login Screen Filled](<img width="1366" height="768" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/f8da98e4-d585-450b-82a0-b131190d088e" />
+)
 
 ### 2. Dashboard Menu (`dashboard.html`)
 Halaman utama setelah login berhasil. Terdapat fitur "greeting" sapaan waktu lokal (contoh: "Selamat Pagi, Admin!"). Navbar sudah dilengkapi dengan logo universitas.
 
-![Dashboard](Screenshot%20(118).jpg)
+![Dashboard](<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/0619fe19-5ace-4934-84a0-091409768482" />
+)
 
 ### 3. Informasi Stok / Katalog (`stok.html`)
 Menampilkan tabel katalog buku yang datanya ditarik langsung dari `data.js`. Di bagian bawah terdapat form untuk menambahkan stok buku baru secara dinamis menggunakan manipulasi DOM.
 
-![Informasi Stok](Screenshot%20(119).jpg)
+![Informasi Stok](<img width="1366" height="768" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/e2ed38a9-1d0c-45cc-b509-35c2c00b39cd" />
+)
 
 ### 4. Tracking Pengiriman (`tracking.html`)
 Halaman simulasi pelacakan resi. Dengan memasukkan nomor Delivery Order (misal: `20230013`), sistem akan merender informasi penerima, bar status pengiriman, dan histori perjalanan.
 
-![Tracking Pengiriman](Screenshot%20(120).jpg)
+![Tracking Pengiriman](<img width="1366" height="768" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/1d0fd1d7-e8e8-456a-84a2-869526c68068" />
+)
 
 ### 5. Halaman Pemesanan (`checkout.html`)
 Form pemesanan yang berisi data pelanggan dan *select box* pilihan buku yang juga dirender dari data katalog. Saat disubmit, akan muncul alert konfirmasi bahwa pesanan diproses.
 
-![Halaman Pemesanan](Screenshot%20(121).jpg)
-![Pemesanan Berhasil](Screenshot%20(122).jpg)
+![Halaman Pemesanan](<img width="1366" height="768" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/639f8327-0666-449e-b949-dc576a9561ca" />
+)
+![Pemesanan Berhasil](<img width="1366" height="768" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/e9a05257-e6b7-4132-9af1-c8ea46f9d44d" />
+)
 
-<img width="1366" height="768" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/b8f42741-1b86-4d44-a590-21ad5519b786" />
-<img width="1366" height="768" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/c33cc169-312d-4f6c-8f1d-ad1ea5105059" />
-<img width="1366" height="768" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/d59cf750-0b28-412c-b99f-b7125cc08cbf" />
-<img width="1366" height="768" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/01602782-a3de-4022-85c5-7964900efb42" />
-<img width="1366" height="768" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/9dc4b0cb-9464-43ad-ac85-7128f82e78f5" />
-<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/cc22382c-2e12-4c2f-a2a4-2c0bfe0a1ae2" />
-<img width="1366" height="768" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/d8b5990b-42a4-41f8-b501-7e0ab8116838" />
