@@ -63,8 +63,7 @@ Web1UTS/
 ### 1. Halaman Login (`index.html`)
 Halaman awal untuk mengakses sistem. Dilengkapi dengan validasi form berbasis JS. Jika email atau password salah, akan muncul alert peringatan. Tersedia juga tombol Lupa Password dan Daftar.
 
-![Login Screen](<img width="1366" height="768" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/4efe5831-0ac2-41a4-a147-9d1521f60707" />
-)
+![Login Screen](https://private-user-images.githubusercontent.com/73042916/698667364-982488ff-1f25-4254-bc27-ccb2e0fa8a99.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQwODU1ODYsIm5iZiI6MTc5NDA4NTI4NiwicGF0aCI6Ii83MzA0MjkxNi82OTg2NjczNjQtOTgyNDg4ZmYtMWYyNS00MjU0LWJjMjctY2NiMmUwZmE4YTk5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjExMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMTA3VDIxMDEyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3MmZlZTEzYjUzZDE2MmE5MmM5M2VkNjQzNjQ4OTRlYTA5ZjczN2VkZDQyOWI3MDRmMDAyZGU2NGNmMzU5M2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.iByqelz2LYb9qy9rF3Semcpt6TqxZ8ASznGxJ7YJ8bg)
 ![Login Screen Filled](<img width="1366" height="768" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/f8da98e4-d585-450b-82a0-b131190d088e" />
 )
 
