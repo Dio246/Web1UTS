@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tracking Pengiriman - Toko Buku Online</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="navbar">
+        <!-- Tambahkan brand-container ini -->
+        <div class="brand-container">
+            <img src="assets/logo-universitas-pelita-bangsa-upb-png-svg.webp" alt="Logo UPB" class="navbar-logo">
+            <h1>Toko Buku Online</h1>
+        </div>
+        <nav>
+            <a href="dashboard.html">Dashboard</a>
+            <a href="stok.html">Informasi Stok</a>
+            <a href="tracking.html" class="active">Tracking Pengiriman</a>
+            <a href="checkout.html">Pemesanan</a>
+            <a href="index.html">Logout</a>
+        </nav>
+    </header>
+    <main class="container">
+        <h2>Lacak Pengiriman</h2>
+        <form onsubmit="cariTracking(event)" class="tracking-search">
+            <input type="text" id="nomorDO" placeholder="Masukkan Nomor Delivery Order (Contoh: 20230012)" required>
+            <button type="submit" class="btn btn-primary">Cari</button>
+        </form>
+
+        <section id="tracking-result" class="tracking-result-box">
+            <!-- Hasil pencarian akan ditampilkan di sini oleh JavaScript -->
+        </section>
+    </main>
+
+    <script src="js/data.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

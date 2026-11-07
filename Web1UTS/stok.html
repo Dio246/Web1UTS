@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informasi Stok - Toko Buku Online</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="navbar">
+        <!-- Tambahkan brand-container ini -->
+        <div class="brand-container">
+            <img src="assets/logo-universitas-pelita-bangsa-upb-png-svg.webp" alt="Logo UPB" class="navbar-logo">
+            <h1>Toko Buku Online</h1>
+        </div>
+        <nav>
+            <a href="dashboard.html">Dashboard</a>
+            <a href="stok.html" class="active">Informasi Stok</a>
+            <a href="tracking.html">Tracking Pengiriman</a>
+            <a href="checkout.html">Pemesanan</a>
+            <a href="index.html">Logout</a>
+        </nav>
+    </header>
+    <main class="container">
+        <h2>Katalog Buku</h2>
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>Kode</th>
+                    <th>Nama Barang</th>
+                    <th>Jenis</th>
+                    <th>Edisi</th>
+                    <th>Stok</th>
+                    <th>Harga</th>
+                    <th>Cover</th>
+                </tr>
+            </thead>
+            <tbody id="stok-body">
+                <!-- Data dirender melalui script.js -->
+            </tbody>
+        </table>
+
+        <section class="add-stok-section">
+            <h3>Tambah Baris Stok Baru</h3>
+            <form id="form-tambah-stok">
+                <div class="form-row">
+                    <input type="text" id="new-kode" placeholder="Kode Barang" required>
+                    <input type="text" id="new-nama" placeholder="Nama Buku" required>
+                    <input type="number" id="new-stok" placeholder="Jumlah Stok" required>
+                    <button type="submit" class="btn btn-primary">Tambah Data</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <script src="js/data.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
